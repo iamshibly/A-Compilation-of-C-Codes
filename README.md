@@ -11,8 +11,10 @@ This repository contains over 70 coding examples covering fundamental programmin
 
 ## How to Use
 1. Clone the repository:
-  git clone https://github.com/iamshibly/programming-exercises.git
-2. Navigate to the relevant topic.
-3. Compile and run the examples.
+   ```sh
+  git clone https://github.com/iamshibly/A-Compilation-of-C-Codes.git
+  ```
+3. Navigate to the relevant topic.
+4. Compile and run the examples.
 
 
