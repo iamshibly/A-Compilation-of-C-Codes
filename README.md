@@ -17,8 +17,3 @@ This repository contains over 70 coding examples covering fundamental programmin
 2. Navigate to the relevant topic.
 3. Compile and run the examples.
 
-## License
-MIT License.
-
-Happy Coding!
-
